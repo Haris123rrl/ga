@@ -34,7 +34,7 @@ let tags = {
 const defaultMenu = {
   before: `
   Hi %name
-I am an Automatic ( Betabotz - Md Whatsapp Bot) that can help you with various needs such as downloading videos, making stickers, etc 
+  bot elaina
 
 *-----------[ Info Bot ]-----------*
 √  *Library:* Baileys
